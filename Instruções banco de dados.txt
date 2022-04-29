@@ -1,0 +1,26 @@
+Baixe e instale o XAMPP:
+
+https://www.apachefriends.org/pt_br/index.html
+
+ou baixe a versão portátil:
+
+https://portableapps.com/apps/development/xampp
+
+----------------------------------------------------------------
+
+Depois, execute o xampp, caso peça permissão de rede basta negar.
+
+Ao lado de Apache e MySQL clique em start.
+
+Ao lado de MySQL clique em admin, ele irá abrir um painel no navegador
+
+No painel, clique em "novo" no canto superior esquerdo para criar um database,
+nomeie-o como "materialmanager".
+
+Dentro dessa database vá na aba importar, escolha o arquivo database.sql que está nesta pasta e clique em executar.
+
+Pronto, o programa estará pronto para uso.
+
+-------------------------------------------------------------------------------------------
+
+O xampp sempre precisará estar aberto e com o apache e o mysql executando para o programa funcionar.
